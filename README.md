@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter, SwiftUI, Compose**
 
-- 📫 How to reach me **Devonjerothe@gmail.com**
+- 📫 How to reach me **Devonjerothe@protonmail.com**
 
 ---
 
